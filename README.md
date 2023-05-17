@@ -1,2 +1,0 @@
-# Wantenna
-Weather Antenna
